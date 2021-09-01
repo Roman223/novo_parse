@@ -1,0 +1,10 @@
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864837&addresses%5B0%5D%5Bhouse_number%5D=71&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865428&addresses%5B0%5D%5Bhouse_number%5D=23&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864871&addresses%5B0%5D%5Bhouse_number%5D=1%2F2&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865373&addresses%5B0%5D%5Bhouse_number%5D=96%2F3&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864333&addresses%5B0%5D%5Bhouse_number%5D=209&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864333&addresses%5B0%5D%5Bhouse_number%5D=211&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864940&addresses%5B0%5D%5Bhouse_number%5D=167%2F3&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864657&addresses%5B0%5D%5Bhouse_number%5D=108&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864974&addresses%5B0%5D%5Bhouse_number%5D=82&limit=100
+https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865734&addresses%5B0%5D%5Bhouse_number%5D=14%2F2&limit=100
